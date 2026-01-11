@@ -1,0 +1,4 @@
+# Config for openapi-python-client (v2 spec).
+package_name_override: "revenuecat_v2"
+project_name_override: "revenuecat-v2"
+
